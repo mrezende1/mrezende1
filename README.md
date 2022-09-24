@@ -1,6 +1,7 @@
 ## Welcome to my profile
 
-📜   Design Patterns | TDD | BDD | Clean Architecture
+# 📜   Design Patterns | TDD | BDD | Clean Architecture
+
 
 
 <div align="center">
