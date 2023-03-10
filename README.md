@@ -1,6 +1,6 @@
 # Welcome to my profile! I'm Mateus
 
-## 📜   Quality Assurence | TDD | BDD | DDD | Clean Architecture
+## 📜   Quality Assurence | TDD | BDD | Agile Testing
 
 
 
