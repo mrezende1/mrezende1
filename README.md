@@ -1,32 +1,31 @@
-# Welcome to my profile! I'm Mateus
+# Mateus Rezende
 
-## 📜   Quality Assurence | TDD | BDD | Agile Testing
+**QA Engineer** · Test Automation & CI/CD · Rio Verde, Brazil
 
+I design and maintain automated test suites for web and API systems — end-to-end
+coverage, BDD specs, load testing, and quality gates wired into CI pipelines.
 
+## Stack
 
-<div align="center">
-  <a href="https://github.com/mrezende1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrezende1&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrezende1&layout=compact&langs_count=7&theme=dark"/>
-</div>
+| | |
+|---|---|
+| **Test automation** | Playwright · Cypress · Selenium · Robot Framework |
+| **API & unit testing** | RestAssured · Jest · Supertest · Vitest · PHPUnit |
+| **Performance** | k6 · Grafana |
+| **BDD** | Cucumber · Behave |
+| **Languages** | TypeScript · JavaScript · Java · Python |
+| **CI/CD** | GitHub Actions · Docker |
 
-### 🛠 Tech Stack
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mateus-CSS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
-  <img align="center" alt="Mateus-CSS" height="40" width="40" src="https://nestjs.com/img/logo-small.svg"> 
-  <img align="center" alt="Mateus-CSS" height="30" width="30" src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png">
-</div>
+## Selected work
 
-##
-  
-<div> 
-  <a href = "mailto:mateusrezendexd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mrezende1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+| Project | What it shows |
+|---|---|
+| [testes-performance](https://github.com/mrezende1/testes-performance) | Load testing with k6 — 100 concurrent virtual users, Docker, Grafana dashboards |
+| [testes-api](https://github.com/mrezende1/testes-api) | REST API suite with Jest + Supertest, plus a Postman collection |
+| [cypress-e2e-forms](https://github.com/mrezende1/cypress-e2e-forms) | Cypress end-to-end tests with custom commands and documented scenarios |
+| [backend-extra-cucumber](https://github.com/mrezende1/backend-extra-cucumber) | BDD API tests in Java with RestAssured + Cucumber |
+| [ci-cd](https://github.com/mrezende1/ci-cd) | GitHub Actions pipelines: build, test and Docker image publishing |
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mrezende1) · [mateusrezendexd@gmail.com](mailto:mateusrezendexd@gmail.com)
